@@ -1,4 +1,3 @@
-
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -8,10 +7,13 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     </head>
 
-    <body style="margin-bottom:100px;">
+    <body style="margin-bottom:100px; margin-top: 150px;">
         
+
+
          <!--Nav Bar-->
-        <nav class="navbar navbar-expand-sm bg-white fixed-top" style="height: 80px" >
+         
+        <nav class="navbar navbar-expand-sm bg-white navbar-dark sticky-top" style="height: 80px" >
             <div class="container">
                 <a class="navbar-brand text-body" href="https://github.com/mayurfartade/"><span style="color: palevioletred;">G</span><span>I</span><span style="color: rgb(104, 170, 170);">T</span>H<span style="color: rgb(129, 10, 10);">U</span>B<span></span></a>
                 
