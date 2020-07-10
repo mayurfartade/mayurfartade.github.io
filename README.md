@@ -1,7 +1,7 @@
 # coding-tree
 
 
-<h2>Link to profile:-</h2><br>
+<h2>Links to profile:-</h2><br>
 
 HackerRank - <a>https://www.hackerrank.com/mayurfartade</a><br>
 HackerEarth - <a>https://www.hackerearth.com/@mayurfartade</a><br>
