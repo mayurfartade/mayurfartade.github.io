@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     </head>
 
-    <body style="margin-bottom:100px; margin-top: 150px;">
+    <body style="margin-bottom:100px; margin-top: 100px;">
         
 
 
@@ -41,7 +41,7 @@
         </nav>
         <!--Nav Bar-->
 
-        <div class="container " style="margin-top: 150px;">
+        <div class="container " style="margin-top: 80px;">
             <h2 class="text-center"><b>Links to profile</b></h2>
 
 
