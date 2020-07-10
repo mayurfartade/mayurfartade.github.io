@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -98,7 +98,7 @@
                     </div>
                 </div>
                 
-            </div>
+            
 
 
             <div class="container text-center rounded-lg" style="max-width:500px; word-wrap: break-word;"> 
