@@ -1,0 +1,39 @@
+Problem Statement
+Given N vertical poles a1, a2, ..., aN having corresponding heights a[1], a[2], ..., a[N] and width 1 unit. In one step, you can either remove one pole or reduce heights of each poles by 1. If a pole has height 0, it can't be reduced further. Find the minimum number of steps, to reduce all poles to 0 height.
+
+constraints:
+1 <= N <= 1e5
+0 <= a[i] <= 1e4
+
+ 
+
+Input Format
+First line contains integer N
+Next line contains N integers, i'th of it denoting values of a[i]
+
+ 
+
+Output Format
+Print a single line denoting the minimum number of steps required
+
+
+
+Sample Testcase #0
+Testcase Input
+5
+3 3 3 3 3
+Testcase Output
+3
+Explanation
+You can remove each poles' height by 1 3 times.
+
+Sample Testcase #1
+Testcase Input
+5
+2 2 1 5 1
+Testcase Output
+3
+Explanation
+1st step: Reduce each pole's height
+2nd step: Reduce 4th pole height to 0 (Remove 4th pole)
+3rd step: Reduce each pole's height
